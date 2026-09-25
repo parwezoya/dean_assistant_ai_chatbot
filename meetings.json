@@ -1,0 +1,78 @@
+[
+  {
+    "id": "86bca750",
+    "title": "t ceremony tea ceremony",
+    "date": "2026-03-28",
+    "start_time": "16:00:00",
+    "end_time": "17:00:00",
+    "duration": 60,
+    "attendees": [
+      "zoya"
+    ],
+    "notes": "escape",
+    "created_at": "2026-03-28T09:06:05.126535"
+  },
+  {
+    "id": "4b469b04",
+    "title": "review 2 jarvis",
+    "date": "2026-03-28",
+    "start_time": "11:00:00",
+    "end_time": "13:00:00",
+    "duration": 120,
+    "attendees": [
+      "shashi ma'am"
+    ],
+    "notes": "",
+    "created_at": "2026-03-28T09:11:23.559983"
+  },
+  {
+    "id": "1ebf7c70",
+    "title": "convocation",
+    "date": "2026-03-29",
+    "start_time": "10:00:00",
+    "end_time": "10:45:00",
+    "duration": 45,
+    "attendees": [
+      "alice mam"
+    ],
+    "notes": "convocation",
+    "created_at": "2026-03-28T09:20:31.621995"
+  },
+  {
+    "id": "44bf575c",
+    "title": "meeting with shashi mam",
+    "date": "2026-03-30",
+    "start_time": "10:00:00",
+    "end_time": "11:00:00",
+    "duration": 60,
+    "attendees": [
+      "review to panel"
+    ],
+    "notes": "blank",
+    "created_at": "2026-03-28T09:33:05.060040"
+  },
+  {
+    "id": "6817a54d",
+    "title": "tea party tea party",
+    "date": "2026-04-29",
+    "start_time": "12:00:00",
+    "end_time": "13:00:00",
+    "duration": 60,
+    "attendees": [],
+    "notes": "",
+    "created_at": "2026-04-28T07:06:07.114494"
+  },
+  {
+    "id": "b4fb7a03",
+    "title": "final review of",
+    "date": "2026-04-28",
+    "start_time": "09:00:00",
+    "end_time": "09:15:00",
+    "duration": 15,
+    "attendees": [
+      "sheikh rashida"
+    ],
+    "notes": "",
+    "created_at": "2026-04-28T08:06:04.552853"
+  }
+]

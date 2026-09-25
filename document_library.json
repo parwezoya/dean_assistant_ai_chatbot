@@ -1,0 +1,30 @@
+{
+  "This is an urgent notice regarding a meeting scheduled tomorrow at 10 AM.": {
+    "title": "This is an urgent notice regarding a meeting scheduled tomorrow at 10 AM.",
+    "filename": "meeting details.txt",
+    "source_file": "C:\\Users\\Elite BooK\\OneDrive\\Documents\\meeting details.txt",
+    "analysed_at": "2026-04-28T07:00:56.381871",
+    "type": "meeting notes",
+    "summary": "This is an urgent notice regarding a meeting scheduled tomorrow at 10 AM. All faculty members are required to attend the meeting in the conference hall. The agenda includes discussion of semester results and upcoming exams. This meeting is important and requires immediate attention.",
+    "key_points": [
+      "All faculty members are required to attend the meeting in the conference hall.",
+      "This is an urgent notice regarding a meeting scheduled tomorrow at 10 AM.",
+      "The agenda includes discussion of semester results and upcoming exams.",
+      "This meeting is important and requires immediate attention.",
+      "Please bring all necessary documents and reports."
+    ],
+    "word_count_approx": 51,
+    "topics": [
+      "meeting",
+      "urgent",
+      "notice",
+      "regarding",
+      "scheduled",
+      "tomorrow"
+    ],
+    "sentiment": "negative",
+    "action_items": [
+      "This is an urgent notice regarding a meeting scheduled tomorrow at 10 AM."
+    ]
+  }
+}

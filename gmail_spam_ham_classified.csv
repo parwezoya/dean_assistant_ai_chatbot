@@ -1,0 +1,413 @@
+sender,subject,snippet,body,message,Predicted_Label,Label
+Sekhmet Jackson <edvardisavirgin@gmail.com>,brunch with family,hi meet at 8 for brunch with family,"hi meet at 8 for brunch with family
+","brunch with family hi meet at 8 for brunch with family
+",1,Ham
+Sekhmet Jackson <edvardisavirgin@gmail.com>,Reunion Invite from Alumni Batch 2003,"Sir, the 2003 alumni batch has invited you as guest of honor for their reunion","  Sir, the 2003 alumni batch has invited you as guest of honor for their
+reunion
+","Reunion Invite from Alumni Batch 2003   Sir, the 2003 alumni batch has invited you as guest of honor for their
+reunion
+",1,Ham
+Sekhmet Jackson <edvardisavirgin@gmail.com>,Faculty Leaves and Adjustments,Here is the list of faculty leaves for next week. Kindly assign adjustments.,"  Here is the list of faculty leaves for next week. Kindly assign
+adjustments.
+","Faculty Leaves and Adjustments   Here is the list of faculty leaves for next week. Kindly assign
+adjustments.
+",1,Ham
+Sekhmet Jackson <edvardisavirgin@gmail.com>,Timetable Approval for Next Semester,The timetable for Semester 6 is ready. Please review and approve before Monday.,"  The timetable for Semester 6 is ready. Please review and approve before
+Monday.
+","Timetable Approval for Next Semester   The timetable for Semester 6 is ready. Please review and approve before
+Monday.
+",1,Ham
+Sekhmet Jackson <edvardisavirgin@gmail.com>,Budget Allocation Deadline,The final budget report must be submitted by 5 PM today for approval.,"  The final budget report must be submitted by 5 PM today for approval.
+","Budget Allocation Deadline   The final budget report must be submitted by 5 PM today for approval.
+",1,Ham
+Sekhmet Jackson <edvardisavirgin@gmail.com>,Weekly Research Committee Review,Please confirm your availability for the research committee review on Wednesday,"  Please confirm your availability for the research committee review on
+Wednesday
+","Weekly Research Committee Review   Please confirm your availability for the research committee review on
+Wednesday
+",1,Ham
+Sekhmet Jackson <edvardisavirgin@gmail.com>,Lunch Invitation from Chancellor,The Chancellor has invited you for an informal lunch this Friday at 1 PM,"  The Chancellor has invited you for an informal lunch this Friday at 1 PM
+","Lunch Invitation from Chancellor   The Chancellor has invited you for an informal lunch this Friday at 1 PM
+",1,Ham
+Sekhmet Jackson <edvardisavirgin@gmail.com>,Convocation Ceremony Planning,"Dean, kindly review the draft plan for the upcoming convocation event next month","  Dean, kindly review the draft plan for the upcoming convocation event
+next month
+","Convocation Ceremony Planning   Dean, kindly review the draft plan for the upcoming convocation event
+next month
+",1,Ham
+Sekhmet Jackson <edvardisavirgin@gmail.com>,Faculty Promotion Documents,"Sir, the faculty promotion forms are still pending. Please send by today EOD","  Sir, the faculty promotion forms are still pending. Please send by today
+EOD
+","Faculty Promotion Documents   Sir, the faculty promotion forms are still pending. Please send by today
+EOD
+",1,Ham
+"""ZOYA PARWEZ (RA2311026010165)"" <zp2501@srmist.edu.in>",Student Grievance Hearing meeting,This is a reminder for the student grievance committee meeting tomorrow at 3 PM,"  This is a reminder for the student grievance committee meeting tomorrow
+at 3 PM
+","Student Grievance Hearing meeting   This is a reminder for the student grievance committee meeting tomorrow
+at 3 PM
+",1,Ham
+"""ZOYA PARWEZ (RA2311026010165)"" <zp2501@srmist.edu.in>",Urgent: Accreditation Meeting Today,"Dear Dean, please attend the NAAC accreditation meeting at 11:00 AM in Hall B","  Dear Dean, please attend the NAAC accreditation meeting at 11:00 AM in
+Hall B
+","Urgent: Accreditation Meeting Today   Dear Dean, please attend the NAAC accreditation meeting at 11:00 AM in
+Hall B
+",1,Ham
+Sekhmet Jackson <edvardisavirgin@gmail.com>,urgent meeting,meetingat 7 30 pm for finamizing next week question papers,"meetingat 7 30 pm for finamizing next week question papers
+","urgent meeting meetingat 7 30 pm for finamizing next week question papers
+",1,Ham
+Sekhmet Jackson <edvardisavirgin@gmail.com>,meet scheduling for annual function,hello i will be scheduling a meet with you on monday .kindly let me know the appropriate time,"hello i will be scheduling a meet with you on monday .kindly let me know
+the appropriate time
+","meet scheduling for annual function hello i will be scheduling a meet with you on monday .kindly let me know
+the appropriate time
+",1,Ham
+Google <no-reply@accounts.google.com>,Security alert,"You allowed dean_secretary_ai access to some of your Google Account data aijarvis79@gmail.com If you didn&#39;t allow dean_secretary_ai access to some of your Google Account data, someone else may be","[image: Google]
+You allowed dean_secretary_ai access to some of your Google Account data
+
+
+aijarvis79@gmail.com
+
+If you didn't allow dean_secretary_ai access to some of your Google Account
+data, someone else may be trying to access your Google Account data.
+
+Take a moment now to check your account activity and secure your account.
+Check activity
+<https://accounts.google.com/AccountChooser?Email=aijarvis79@gmail.com&continue=https://myaccount.google.com/alert/nt/1751782414000?rfn%3D127%26rfnc%3D1%26eid%3D-8019592855825190884%26et%3D0>
+To make changes at any time to the access that dean_secretary_ai has to
+your data, go to your Google Account
+<https://accounts.google.com/AccountChooser?Email=aijarvis79@gmail.com&continue=https://myaccount.google.com/connections/overview/AXgE0HPlAcnqwzOyMkesQqv627az1q0JxY5upWvjsyyVsNZ4YaQ-za_1XOsZ6NIbqD8MLZ3GGNq2ZGdQf3pOvd74_cw?utm_source%3Dsec_alert%26utm_medium%3Demail_notification%26force_all%3Dtrue>
+You can also see security activity at
+https://myaccount.google.com/notifications
+You received this email to let you know about important changes to your
+Google Account and services.
+© 2025 Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA
+","Security alert [image: Google]
+You allowed dean_secretary_ai access to some of your Google Account data
+
+
+aijarvis79@gmail.com
+
+If you didn't allow dean_secretary_ai access to some of your Google Account
+data, someone else may be trying to access your Google Account data.
+
+Take a moment now to check your account activity and secure your account.
+Check activity
+<https://accounts.google.com/AccountChooser?Email=aijarvis79@gmail.com&continue=https://myaccount.google.com/alert/nt/1751782414000?rfn%3D127%26rfnc%3D1%26eid%3D-8019592855825190884%26et%3D0>
+To make changes at any time to the access that dean_secretary_ai has to
+your data, go to your Google Account
+<https://accounts.google.com/AccountChooser?Email=aijarvis79@gmail.com&continue=https://myaccount.google.com/connections/overview/AXgE0HPlAcnqwzOyMkesQqv627az1q0JxY5upWvjsyyVsNZ4YaQ-za_1XOsZ6NIbqD8MLZ3GGNq2ZGdQf3pOvd74_cw?utm_source%3Dsec_alert%26utm_medium%3Demail_notification%26force_all%3Dtrue>
+You can also see security activity at
+https://myaccount.google.com/notifications
+You received this email to let you know about important changes to your
+Google Account and services.
+© 2025 Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA
+",1,Ham
+Google <no-reply@accounts.google.com>,Security alert,"Recovery phone was changed aijarvis79@gmail.com The recovery phone for your account was changed. If you didn&#39;t change it, you should check what happened. Check activity You can also see security","[image: Google]
+Recovery phone was changed
+
+
+aijarvis79@gmail.com
+The recovery phone for your account was changed. If you didn't change it,
+you should check what happened.
+Check activity
+<https://accounts.google.com/AccountChooser?Email=aijarvis79@gmail.com&continue=https://myaccount.google.com/alert/nt/1751780952182?rfn%3D4%26rfnc%3D1%26eid%3D-341855556091380155%26et%3D0>
+You can also see security activity at
+https://myaccount.google.com/notifications
+You received this email to let you know about important changes to your
+Google Account and services.
+© 2025 Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA
+","Security alert [image: Google]
+Recovery phone was changed
+
+
+aijarvis79@gmail.com
+The recovery phone for your account was changed. If you didn't change it,
+you should check what happened.
+Check activity
+<https://accounts.google.com/AccountChooser?Email=aijarvis79@gmail.com&continue=https://myaccount.google.com/alert/nt/1751780952182?rfn%3D4%26rfnc%3D1%26eid%3D-341855556091380155%26et%3D0>
+You can also see security activity at
+https://myaccount.google.com/notifications
+You received this email to let you know about important changes to your
+Google Account and services.
+© 2025 Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA
+",1,Ham
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>,Delivery Status Notification (Failure),Address not found Your message wasn&#39;t delivered to edvardisavirigin@gmail.com because the address couldn&#39;t be found or is unable to receive email. LEARN MORE The response was: 550 5.1.1 The,,Delivery Status Notification (Failure) ,1,Ham
+JARVIS AI <aijarvis79@gmail.com>,,helloo .we are conducting a session in public school with kids,"helloo .we are conducting a session in public school with kids
+"," helloo .we are conducting a session in public school with kids
+",1,Ham
+Google <no-reply@accounts.google.com>,Security alert,"App password created to sign in to your account aijarvis79@gmail.com If you didn&#39;t generate this password for mail, someone else might be using your account. Check and secure your account now.","[image: Google]
+App password created to sign in to your account
+
+
+aijarvis79@gmail.com
+If you didn't generate this password for mail, someone else might be using
+your account. Check and secure your account now.
+Check activity
+<https://accounts.google.com/AccountChooser?Email=aijarvis79@gmail.com&continue=https://myaccount.google.com/alert/nt/1751223121797?rfn%3D20%26rfnc%3D1%26eid%3D-5169780355702308053%26et%3D0>
+You can also see security activity at
+https://myaccount.google.com/notifications
+You received this email to let you know about important changes to your
+Google Account and services.
+© 2025 Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA
+","Security alert [image: Google]
+App password created to sign in to your account
+
+
+aijarvis79@gmail.com
+If you didn't generate this password for mail, someone else might be using
+your account. Check and secure your account now.
+Check activity
+<https://accounts.google.com/AccountChooser?Email=aijarvis79@gmail.com&continue=https://myaccount.google.com/alert/nt/1751223121797?rfn%3D20%26rfnc%3D1%26eid%3D-5169780355702308053%26et%3D0>
+You can also see security activity at
+https://myaccount.google.com/notifications
+You received this email to let you know about important changes to your
+Google Account and services.
+© 2025 Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA
+",1,Ham
+Google <no-reply@accounts.google.com>,Security alert,"App password used to sign in was removed aijarvis79@gmail.com If you didn&#39;t remove this password, someone else might be using your account. Check and secure your account now. Check activity You can","[image: Google]
+App password used to sign in was removed
+
+
+aijarvis79@gmail.com
+If you didn't remove this password, someone else might be using your
+account. Check and secure your account now.
+Check activity
+<https://accounts.google.com/AccountChooser?Email=aijarvis79@gmail.com&continue=https://myaccount.google.com/alert/nt/1751222632058?rfn%3D269%26rfnc%3D1%26eid%3D1413115324145610136%26et%3D0>
+You can also see security activity at
+https://myaccount.google.com/notifications
+You received this email to let you know about important changes to your
+Google Account and services.
+© 2025 Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA
+","Security alert [image: Google]
+App password used to sign in was removed
+
+
+aijarvis79@gmail.com
+If you didn't remove this password, someone else might be using your
+account. Check and secure your account now.
+Check activity
+<https://accounts.google.com/AccountChooser?Email=aijarvis79@gmail.com&continue=https://myaccount.google.com/alert/nt/1751222632058?rfn%3D269%26rfnc%3D1%26eid%3D1413115324145610136%26et%3D0>
+You can also see security activity at
+https://myaccount.google.com/notifications
+You received this email to let you know about important changes to your
+Google Account and services.
+© 2025 Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA
+",1,Ham
+Google <no-reply@accounts.google.com>,Security alert,"App password created to sign in to your account aijarvis79@gmail.com If you didn&#39;t generate this password for Mail, someone else might be using your account. Check and secure your account now.","[image: Google]
+App password created to sign in to your account
+
+
+aijarvis79@gmail.com
+If you didn't generate this password for Mail, someone else might be using
+your account. Check and secure your account now.
+Check activity
+<https://accounts.google.com/AccountChooser?Email=aijarvis79@gmail.com&continue=https://myaccount.google.com/alert/nt/1751222294226?rfn%3D20%26rfnc%3D1%26eid%3D-6655585332751542954%26et%3D0>
+You can also see security activity at
+https://myaccount.google.com/notifications
+You received this email to let you know about important changes to your
+Google Account and services.
+© 2025 Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA
+","Security alert [image: Google]
+App password created to sign in to your account
+
+
+aijarvis79@gmail.com
+If you didn't generate this password for Mail, someone else might be using
+your account. Check and secure your account now.
+Check activity
+<https://accounts.google.com/AccountChooser?Email=aijarvis79@gmail.com&continue=https://myaccount.google.com/alert/nt/1751222294226?rfn%3D20%26rfnc%3D1%26eid%3D-6655585332751542954%26et%3D0>
+You can also see security activity at
+https://myaccount.google.com/notifications
+You received this email to let you know about important changes to your
+Google Account and services.
+© 2025 Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA
+",1,Ham
+Google <no-reply@accounts.google.com>,Security alert,"App password used to sign in was removed aijarvis79@gmail.com If you didn&#39;t remove this password, someone else might be using your account. Check and secure your account now. Check activity You can","[image: Google]
+App password used to sign in was removed
+
+
+aijarvis79@gmail.com
+If you didn't remove this password, someone else might be using your
+account. Check and secure your account now.
+Check activity
+<https://accounts.google.com/AccountChooser?Email=aijarvis79@gmail.com&continue=https://myaccount.google.com/alert/nt/1751222236803?rfn%3D269%26rfnc%3D1%26eid%3D578378944258421816%26et%3D0>
+You can also see security activity at
+https://myaccount.google.com/notifications
+You received this email to let you know about important changes to your
+Google Account and services.
+© 2025 Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA
+","Security alert [image: Google]
+App password used to sign in was removed
+
+
+aijarvis79@gmail.com
+If you didn't remove this password, someone else might be using your
+account. Check and secure your account now.
+Check activity
+<https://accounts.google.com/AccountChooser?Email=aijarvis79@gmail.com&continue=https://myaccount.google.com/alert/nt/1751222236803?rfn%3D269%26rfnc%3D1%26eid%3D578378944258421816%26et%3D0>
+You can also see security activity at
+https://myaccount.google.com/notifications
+You received this email to let you know about important changes to your
+Google Account and services.
+© 2025 Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA
+",1,Ham
+Google <no-reply@accounts.google.com>,Security alert,"App password used to sign in was removed aijarvis79@gmail.com If you didn&#39;t remove this password, someone else might be using your account. Check and secure your account now. Check activity You can","[image: Google]
+App password used to sign in was removed
+
+
+aijarvis79@gmail.com
+If you didn't remove this password, someone else might be using your
+account. Check and secure your account now.
+Check activity
+<https://accounts.google.com/AccountChooser?Email=aijarvis79@gmail.com&continue=https://myaccount.google.com/alert/nt/1751222234710?rfn%3D269%26rfnc%3D1%26eid%3D-6695850193119271653%26et%3D0>
+You can also see security activity at
+https://myaccount.google.com/notifications
+You received this email to let you know about important changes to your
+Google Account and services.
+© 2025 Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA
+","Security alert [image: Google]
+App password used to sign in was removed
+
+
+aijarvis79@gmail.com
+If you didn't remove this password, someone else might be using your
+account. Check and secure your account now.
+Check activity
+<https://accounts.google.com/AccountChooser?Email=aijarvis79@gmail.com&continue=https://myaccount.google.com/alert/nt/1751222234710?rfn%3D269%26rfnc%3D1%26eid%3D-6695850193119271653%26et%3D0>
+You can also see security activity at
+https://myaccount.google.com/notifications
+You received this email to let you know about important changes to your
+Google Account and services.
+© 2025 Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA
+",1,Ham
+Google <no-reply@accounts.google.com>,Security alert,"App password created to sign in to your account aijarvis79@gmail.com If you didn&#39;t generate this password for Mail, someone else might be using your account. Check and secure your account now.","[image: Google]
+App password created to sign in to your account
+
+
+aijarvis79@gmail.com
+If you didn't generate this password for Mail, someone else might be using
+your account. Check and secure your account now.
+Check activity
+<https://accounts.google.com/AccountChooser?Email=aijarvis79@gmail.com&continue=https://myaccount.google.com/alert/nt/1751222223572?rfn%3D20%26rfnc%3D1%26eid%3D-7546252645452827513%26et%3D0>
+You can also see security activity at
+https://myaccount.google.com/notifications
+You received this email to let you know about important changes to your
+Google Account and services.
+© 2025 Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA
+","Security alert [image: Google]
+App password created to sign in to your account
+
+
+aijarvis79@gmail.com
+If you didn't generate this password for Mail, someone else might be using
+your account. Check and secure your account now.
+Check activity
+<https://accounts.google.com/AccountChooser?Email=aijarvis79@gmail.com&continue=https://myaccount.google.com/alert/nt/1751222223572?rfn%3D20%26rfnc%3D1%26eid%3D-7546252645452827513%26et%3D0>
+You can also see security activity at
+https://myaccount.google.com/notifications
+You received this email to let you know about important changes to your
+Google Account and services.
+© 2025 Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA
+",1,Ham
+Google <no-reply@accounts.google.com>,Security alert,"App password created to sign in to your account aijarvis79@gmail.com If you didn&#39;t generate this password for JARVIS_ASSISTANT, someone else might be using your account. Check and secure your","[image: Google]
+App password created to sign in to your account
+
+
+aijarvis79@gmail.com
+If you didn't generate this password for JARVIS_ASSISTANT, someone else
+might be using your account. Check and secure your account now.
+Check activity
+<https://accounts.google.com/AccountChooser?Email=aijarvis79@gmail.com&continue=https://myaccount.google.com/alert/nt/1751221579192?rfn%3D20%26rfnc%3D1%26eid%3D2290654792532435857%26et%3D0>
+You can also see security activity at
+https://myaccount.google.com/notifications
+You received this email to let you know about important changes to your
+Google Account and services.
+© 2025 Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA
+","Security alert [image: Google]
+App password created to sign in to your account
+
+
+aijarvis79@gmail.com
+If you didn't generate this password for JARVIS_ASSISTANT, someone else
+might be using your account. Check and secure your account now.
+Check activity
+<https://accounts.google.com/AccountChooser?Email=aijarvis79@gmail.com&continue=https://myaccount.google.com/alert/nt/1751221579192?rfn%3D20%26rfnc%3D1%26eid%3D2290654792532435857%26et%3D0>
+You can also see security activity at
+https://myaccount.google.com/notifications
+You received this email to let you know about important changes to your
+Google Account and services.
+© 2025 Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA
+",1,Ham
+Google <no-reply@accounts.google.com>,2-Step Verification turned on,"2-Step Verification turned on aijarvis79@gmail.com Your Google Account aijarvis79@gmail.com is now protected with 2-Step Verification. When you sign in on a new or untrusted device, you&#39;ll need","[image: Google]
+2-Step Verification turned on
+
+
+aijarvis79@gmail.com
+
+Your Google Account aijarvis79@gmail.com is now protected with 2-Step
+Verification. When you sign in on a new or untrusted device, you’ll need
+your second factor to verify your identity.
+
+*Don't get locked out!*
+You can add a backup phone or get backup codes to use when you don’t have
+your second factor with you.
+You can review your 2SV settings
+<https://accounts.google.com/AccountChooser?Email=aijarvis79@gmail.com&continue=https://myaccount.google.com/signinoptions/two-step-verification?rfn%3D16%26rfnc%3D1%26eid%3D-3423649752054043688%26et%3D0>
+to make changes.
+You can also see security activity at
+https://myaccount.google.com/notifications
+You received this email to let you know about important changes to your
+Google Account and services.
+© 2025 Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA
+","2-Step Verification turned on [image: Google]
+2-Step Verification turned on
+
+
+aijarvis79@gmail.com
+
+Your Google Account aijarvis79@gmail.com is now protected with 2-Step
+Verification. When you sign in on a new or untrusted device, you’ll need
+your second factor to verify your identity.
+
+*Don't get locked out!*
+You can add a backup phone or get backup codes to use when you don’t have
+your second factor with you.
+You can review your 2SV settings
+<https://accounts.google.com/AccountChooser?Email=aijarvis79@gmail.com&continue=https://myaccount.google.com/signinoptions/two-step-verification?rfn%3D16%26rfnc%3D1%26eid%3D-3423649752054043688%26et%3D0>
+to make changes.
+You can also see security activity at
+https://myaccount.google.com/notifications
+You received this email to let you know about important changes to your
+Google Account and services.
+© 2025 Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA
+",1,Ham
+Google <no-reply@accounts.google.com>,Security alert,"Phone number added for 2-Step Verification aijarvis79@gmail.com Codes to sign in to your account now go to a new phone number. If you didn&#39;t add this number, someone else might be using your","[image: Google]
+Phone number added for 2-Step Verification
+
+
+aijarvis79@gmail.com
+Codes to sign in to your account now go to a new phone number. If you
+didn't add this number, someone else might be using your account. Check and
+secure your account now.
+Check activity
+<https://accounts.google.com/AccountChooser?Email=aijarvis79@gmail.com&continue=https://myaccount.google.com/alert/nt/1751221487442?rfn%3D249%26rfnc%3D1%26eid%3D978858058216874388%26et%3D0>
+You can also see security activity at
+https://myaccount.google.com/notifications
+You received this email to let you know about important changes to your
+Google Account and services.
+© 2025 Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA
+","Security alert [image: Google]
+Phone number added for 2-Step Verification
+
+
+aijarvis79@gmail.com
+Codes to sign in to your account now go to a new phone number. If you
+didn't add this number, someone else might be using your account. Check and
+secure your account now.
+Check activity
+<https://accounts.google.com/AccountChooser?Email=aijarvis79@gmail.com&continue=https://myaccount.google.com/alert/nt/1751221487442?rfn%3D249%26rfnc%3D1%26eid%3D978858058216874388%26et%3D0>
+You can also see security activity at
+https://myaccount.google.com/notifications
+You received this email to let you know about important changes to your
+Google Account and services.
+© 2025 Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA
+",1,Ham
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>,Delivery Status Notification (Failure),Address not found Your message wasn&#39;t delivered to edvardisavirigin@gmail.com because the address couldn&#39;t be found or is unable to receive email. LEARN MORE The response was: 550 5.1.1 The,,Delivery Status Notification (Failure) ,1,Ham
+JARVIS AI <aijarvis79@gmail.com>,,hi i want to schedule a meet next week,"hi i want to schedule a meet next week
+"," hi i want to schedule a meet next week
+",1,Ham
